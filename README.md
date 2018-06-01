@@ -36,7 +36,7 @@ The following schema represents this pattern while allowing for the particular s
 &nbsp;&nbsp;&nbsp;&nbsp;`"season": "Advent, Christmas, Epiphany, Lent, Easter, The Season after Pentecost",`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`"week": "Week of # Season, Ash Wednesday and Following, Holy Week, Easter Week, or Proper #",`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`"day": "Day of week (days are in "long" format, e.g., 'Sunday, Monday, Tuesday, etc.') or Calendar date (months are in "short" format, e.g., 'Dec 24, Jan 5, etc.')",`<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`"title": "The First Sunday of Advent, The Second Sunday in Lent, The Day of Pentecost: Whitsunday, etc.",`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`"title": "The First Sunday of Advent, The Second Sunday in Lent, The Day of Pentecost: Whitsunday, etc.",`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`"psalms": {`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`"morning": [`<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`"Chapter and verse range for a given psalm (e.g., "23", "110:1–5(6–7), [133], etc."—[optional psalm] or (suggested lengthening)) as they appear in BCP 2007"`<br/>
@@ -71,7 +71,7 @@ In Year One and Year Two, offices are combined for days that have special evenin
 
 Values for the `title` property are adapted from "The Titles of the Seasons, Sundays, and Major Holy Days" ([BCP 2007, 31](https://www.episcopalchurch.org/files/book_of_common_prayer.pdf#page=31)).
 
-All Bible book abbreviations are adapted to conform to the [Society of Biblical Literature standard](https://www.sbl-site.org/).
+All Bible book abbreviations are adapted to conform to the [Society of Biblical Literature](https://www.sbl-site.org/) standard.
 
 Only `notes` that apply to specific offices and could not otherwise be interpretted within the schema are included. For example, the note for `Jan 3` and `Jan 4` which instructs `"If today is Saturday, use Psalms 23 and 27 at Evening Prayer."` But the alternate readings in Judith in place of Esther for  `Proper 18` and `Proper 19` in `Year Two` are treated as `altFirst` on those days. Also, notes that apply to several days have been omitted—like Psalm 95 is "For the Invitatory" on Fridays in Lent. That way, such notes can be handled more programmatically rather than duplicating the same data across multiple objects.
 
@@ -99,7 +99,7 @@ Antiphons drawn from the Psalms themselves, or from the opening sentences given 
 On Special Occasions, the officiant may select suitable Psalms and Readings. ([BCP 2007, 934–935](https://www.episcopalchurch.org/files/book_of_common_prayer.pdf#page=934))
 </blockquote>
 
-Information concerning the Daily Office as a service or as [Daily Devotions for Individuals and Families](https://www.episcopalchurch.org/files/book_of_common_prayer.pdf#page=136) as well as additional directions from the BCP 2007 may be found on pp [35–146](https://www.episcopalchurch.org/files/book_of_common_prayer.pdf#page=35).
+Information concerning the Daily Office as a service or as [Daily Devotions for Individuals and Families](https://www.episcopalchurch.org/files/book_of_common_prayer.pdf#page=136) as well as additional directions from the BCP 2007 may be found on [pp 35–146](https://www.episcopalchurch.org/files/book_of_common_prayer.pdf#page=35).
 
 ## References
 BCP (The Episcopal Church). 2007. _The Book of Common Prayer and Administration of the Sacraments and Other Rites and Ceremonies of the Church Together with The Psalter or Psalms of David According to the use of The Episcopal Church_. New York: Church Publishing. https://www.episcopalchurch.org/files/book_of_common_prayer.pdf
