@@ -1,7 +1,7 @@
 [
 	{
-		"title": "Saint Andrew the Apostle",
 		"day": "Nov 10",
+		"title": "Saint Andrew the Apostle",
 		"psalms": {
 			"morning": [
 				"34"
@@ -23,8 +23,8 @@
 		}
 	},
 	{
-		"title": "Saint Thomas the Apostle",
 		"day": "Dec 21",
+		"title": "Saint Thomas the Apostle",
 		"psalms": {
 			"morning": [
 				"23",
@@ -46,8 +46,8 @@
 		}
 	},
 	{
-		"title": "Saint Stephen, Deacon and Martyr",
 		"day": "Dec 26",
+		"title": "Saint Stephen, Deacon and Martyr",
 		"psalms": {
 			"morning": [
 				"28",
@@ -69,8 +69,8 @@
 		}
 	},
 	{
-		"title": "Saint John, Apostle and Evangelist",
 		"day": "Dec 27",
+		"title": "Saint John, Apostle and Evangelist",
 		"psalms": {
 			"morning": [
 				"97",
@@ -92,8 +92,8 @@
 		}
 	},
 	{
-		"title": "The Holy Innocents",
 		"day": "Dec 28",
+		"title": "The Holy Innocents",
 		"psalms": {
 			"morning": [
 				"2",
@@ -116,8 +116,8 @@
 		}
 	},
 	{
-		"title": "The Confession of Saint Peter the Apostle",
 		"day": "Jan 18",
+		"title": "The Confession of Saint Peter the Apostle",
 		"psalms": {
 			"morning": [
 				"66",
@@ -139,8 +139,8 @@
 		}
 	},
 	{
-		"title": "The Conversion of Saint Paul the Apostle",
 		"day": "Jan 25",
+		"title": "The Conversion of Saint Paul the Apostle",
 		"psalms": {
 			"morning": [
 				"19"
@@ -161,8 +161,8 @@
 		}
 	},
 	{
-		"title": "Eve of the Presentation",
 		"day": "Feb 1",
+		"title": "Eve of the Presentation",
 		"psalms": {
 			"evening": [
 				"113",
@@ -177,8 +177,8 @@
 		}
 	},
 	{
-		"title": "The Presentation of Our Lord Jesus Christ in the Temple",
 		"day": "Feb 2",
+		"title": "The Presentation of Our Lord Jesus Christ in the Temple",
 		"psalms": {
 			"morning": [
 				"42",
@@ -201,8 +201,8 @@
 		}
 	},
 	{
-		"title": "Saint Matthias the Apostle",
 		"day": "Feb 24",
+		"title": "Saint Matthias the Apostle",
 		"psalms": {
 			"morning": [
 				"80"
@@ -223,8 +223,8 @@
 		}
 	},
 	{
-		"title": "Saint Joseph",
 		"day": "Mar 19",
+		"title": "Saint Joseph",
 		"psalms": {
 			"morning": [
 				"132"
@@ -245,8 +245,8 @@
 		}
 	},
 	{
-		"title": "Eve of the Annunciation",
 		"day": "Mar 24",
+		"title": "Eve of the Annunciation",
 		"psalms": {
 			"evening": [
 				"8",
@@ -261,8 +261,8 @@
 		}
 	},
 	{
-		"title": "The Annuciation of Our Lord Jesus Christ to Mary",
 		"day": "Mar 25",
+		"title": "The Annuciation of Our Lord Jesus Christ to Mary",
 		"psalms": {
 			"morning": [
 				"85",
@@ -285,8 +285,8 @@
 		}
 	},
 	{
-		"title": "Saint Mark the Evangelist",
 		"day": "Apr 25",
+		"title": "Saint Mark the Evangelist",
 		"psalms": {
 			"morning": [
 				"145"
@@ -308,8 +308,8 @@
 		}
 	},
 	{
-		"title": "Saint Philip and Saint James, Apostles",
 		"day": "May 1",
+		"title": "Saint Philip and Saint James, Apostles",
 		"psalms": {
 			"morning": [
 				"119:137–160"
@@ -330,8 +330,8 @@
 		}
 	},
 	{
-		"title": "Eve of the Visitation",
 		"day": "May 30",
+		"title": "Eve of the Visitation",
 		"psalms": {
 			"evening": [
 				"146",
@@ -346,8 +346,8 @@
 		}
 	},
 	{
-		"title": "The Visitation of Mary to Elizabeth",
 		"day": "May 31",
+		"title": "The Visitation of Mary to Elizabeth",
 		"psalms": {
 			"morning": [
 				"72"
@@ -369,8 +369,8 @@
 		}
 	},
 	{
-		"title": "Saint Barnabas the Apostle",
 		"day": "Jun 11",
+		"title": "Saint Barnabas the Apostle",
 		"psalms": {
 			"morning": [
 				"15",
@@ -393,8 +393,8 @@
 		}
 	},
 	{
-		"title": "Eve of Saint John the Baptist",
 		"day": "Jun 23",
+		"title": "Eve of Saint John the Baptist",
 		"psalms": {
 			"evening": [
 				"103"
@@ -408,8 +408,8 @@
 		}
 	},
 	{
-		"title": "The Nativity of Saint John the Baptist",
 		"day": "Jun 24",
+		"title": "The Nativity of Saint John the Baptist",
 		"psalms": {
 			"morning": [
 				"82",
@@ -431,8 +431,8 @@
 		}
 	},
 	{
-		"title": "Saint Peter and Saint Paul, Apostles",
 		"day": "Jun 29",
+		"title": "Saint Peter and Saint Paul, Apostles",
 		"psalms": {
 			"morning": [
 				"66"
@@ -454,8 +454,8 @@
 		}
 	},
 	{
-		"title": "Saint Mary Magdalene",
 		"day": "Jul 22",
+		"title": "Saint Mary Magdalene",
 		"psalms": {
 			"morning": [
 				"116"
@@ -477,8 +477,8 @@
 		}
 	},
 	{
-		"title": "Saint James the Apostle",
 		"day": "Jul 25",
+		"title": "Saint James the Apostle",
 		"psalms": {
 			"morning": [
 				"34"
@@ -499,8 +499,8 @@
 		}
 	},
 	{
-		"title": "Eve of the Transfiguration",
 		"day": "Aug 5",
+		"title": "Eve of the Transfiguration",
 		"psalms": {
 			"evening": [
 				"84"
@@ -514,8 +514,8 @@
 		}
 	},
 	{
-		"title": "The Transfiguration of Our Lord Jesus Christ",
 		"day": "Aug 6",
+		"title": "The Transfiguration of Our Lord Jesus Christ",
 		"psalms": {
 			"morning": [
 				"2",
@@ -537,8 +537,8 @@
 		}
 	},
 	{
-		"title": "Saint Mary, Mother of Our Lord Jesus Christ",
 		"day": "Aug 15",
+		"title": "Saint Mary, Mother of Our Lord Jesus Christ",
 		"psalms": {
 			"morning": [
 				"113",
@@ -564,8 +564,8 @@
 		}
 	},
 	{
-		"title": "Saint Bartholomew the Apostle",
 		"day": "Aug 24",
+		"title": "Saint Bartholomew the Apostle",
 		"psalms": {
 			"morning": [
 				"86"
@@ -587,8 +587,8 @@
 		}
 	},
 	{
-		"title": "Eve of Holy Cross",
 		"day": "Sep 13",
+		"title": "Eve of Holy Cross",
 		"psalms": {
 			"evening": [
 				"46",
@@ -603,8 +603,8 @@
 		}
 	},
 	{
-		"title": "Holy Cross Day",
 		"day": "Sep 15",
+		"title": "Holy Cross Day",
 		"psalms": {
 			"morning": [
 				"66"
@@ -625,8 +625,8 @@
 		}
 	},
 	{
-		"title": "Saint Matthew, Apostle and Evangelist",
 		"day": "Sep 21",
+		"title": "Saint Matthew, Apostle and Evangelist",
 		"psalms": {
 			"morning": [
 				"119:41–64"
@@ -648,8 +648,8 @@
 		}
 	},
 	{
-		"title": "Saint Michael and All Angels",
 		"day": "Sep 29",
+		"title": "Saint Michael and All Angels",
 		"psalms": {
 			"morning": [
 				"8",
@@ -675,8 +675,8 @@
 		}
 	},
 	{
-		"title": "Saint Luke the Evangelist",
 		"day": "Oct 18",
+		"title": "Saint Luke the Evangelist",
 		"psalms": {
 			"morning": [
 				"103"
@@ -698,8 +698,8 @@
 		}
 	},
 	{
-		"title": "Saint James of Jerusalem, Brother of Our Lord Jesus Christ",
 		"day": "Oct 23",
+		"title": "Saint James of Jerusalem, Brother of Our Lord Jesus Christ",
 		"psalms": {
 			"morning": [
 				"119:145–168"
@@ -721,8 +721,8 @@
 		}
 	},
 	{
-		"title": "Saint Simon and Saint Jude, Apostles",
 		"day": "Oct 28",
+		"title": "Saint Simon and Saint Jude, Apostles",
 		"psalms": {
 			"morning": [
 				"66"
@@ -744,8 +744,8 @@
 		}
 	},
 	{
-		"title": "Eve of All Saints",
 		"day": "Oct 31",
+		"title": "Eve of All Saints",
 		"psalms": {
 			"evening": [
 				"34"
@@ -759,8 +759,8 @@
 		}
 	},
 	{
-		"title": "All Saints' Day",
 		"day": "Nov 1",
+		"title": "All Saints' Day",
 		"psalms": {
 			"morning": [
 				"111",
