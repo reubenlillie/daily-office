@@ -293,7 +293,8 @@
 		"year": "Year Two",
 		"season": "Advent",
 		"week": "Week of 3 Advent",
-		"day": "The Third Sunday of Advent",
+		"day": "Sunday",
+		"title": "The Third Sunday of Advent",
 		"psalms": {
 			"morning": [
 				"63:1–8(9–11)",
@@ -587,7 +588,8 @@
 		"year": "Year Two",
 		"season": "Christmas",
 		"week": "Christmas Day and Following",
-		"day": "The Nativity of Our Lord Jesus Christ: Christmas Day",
+		"day": "Dec 25",
+		"title": "The Nativity of Our Lord Jesus Christ: Christmas Day",
 		"psalms": {
 			"morning": [
 				"2",
@@ -4194,7 +4196,7 @@
 	{
 		"year": "Year Two",
 		"season": "Easter",
-		"week": "Week of 7 Easter",
+		"week": "Pentecost",
 		"day": "Sunday",
 		"title": "The Day of Pentecost: Whitsunday",
 		"psalms": {
@@ -4231,7 +4233,8 @@
 	{
 		"year": "Year Two",
 		"season": "The Season after Pentecost",
-		"day": "The First Sunday after Pentecost: Trinity Sunday",
+		"day": "Sunday",
+		"title": "The First Sunday after Pentecost: Trinity Sunday",
 		"psalms": {
 			"morning": [
 				"146",
